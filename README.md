@@ -1,7 +1,7 @@
 # Sign-Language-Detection-from-Hand-Gesture-Images-using-Deep-Multi-layered-Convolution-Neural-Network
 
 This is a multiclass classification of different static and dynamic hand gesture images like-
-1. $0$ to $9$
+1. 0 to 9
 2. A to Z
 3. Aborad, Afraid, Bring, etc.
 
