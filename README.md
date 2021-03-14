@@ -13,7 +13,7 @@ Using advanced image processing and deep learning algorithms the results of the 
 4. Sensitivity = 99.93 %
 5. Specificity = 99.99 %
 
-*The paper will be added after it gets listed at IEEEXplore*
+Read the paper at https://ieeexplore.ieee.org/abstract/document/9362897
 
 ## Run in your machine:
 * `git clone https://github.com/sudo-rajarshi/Sign-Language-Detection-from-Hand-Gesture-Images-using-Deep-Multi-layered-Convolution-Neural-Network.git`
